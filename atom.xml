@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://404NTFounDxx.github.io</id>
     <title>Gridea</title>
-    <updated>2019-11-07T10:10:56.235Z</updated>
+    <updated>2019-12-23T05:09:06.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://404NTFounDxx.github.io"/>
     <link rel="self" href="https://404NTFounDxx.github.io/atom.xml"/>
@@ -11,35 +11,97 @@
     <icon>https://404NTFounDxx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://404NTFounDxx.github.io/post/hello-gridea</id>
-        <link href="https://404NTFounDxx.github.io/post/hello-gridea">
+        <title type="html"><![CDATA[马克思学习]]></title>
+        <id>https://404NTFounDxx.github.io/post/ma-ke-si-xue-xi</id>
+        <link href="https://404NTFounDxx.github.io/post/ma-ke-si-xue-xi">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2019-12-23T05:03:13.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="第二章马克思主义学习实践与认识">第二章马克思主义学习（实践与认识）</h1>
+<ol>
+<li>科学理论对实践有指导作用；</li>
+<li>认识过程的两次飞跃的相互区别主要在于第一次飞跃主要是<strong>认识世界</strong>，第二次飞跃主要是<strong>改造世界</strong>；</li>
+<li>实践在认识中的决定作用：
+<ol>
+<li><strong>实践就是认识的来源</strong>；</li>
+<li><strong>实践是认识发展的动力</strong>；</li>
+<li><strong>实践是认识的目的</strong>；</li>
+<li><strong>实践是检验认识真理性的唯一标准</strong>。</li>
+</ol>
+</li>
+<li>感性认识和理性认识的区别：感性认识是对<strong>现象</strong>的认识，理性认识是对<strong>本质</strong>的认识。</li>
+<li>主观和客观、认识和实践的统一是具体的历史的统一；</li>
+<li>认识是在实践基础上主体对客体的能动反映；</li>
+<li>真理就是人们对客观事物及其规律的正确认识；</li>
+</ol>
+<p>#第三章马克思主义学习（生产力与经济）</p>
+<ol>
+<li>衡量社会生产力发展水平的客观是生产工具的改进；</li>
+<li>经济基础是一定历史阶段上占统治地位的生产关系各方面的总和；</li>
+<li>阶级斗争是阶级社会发展的直接动力；</li>
+<li>社会意识主要是对物质资料生产方式的反映；</li>
+<li>社会发展的决定力量是生产方式；</li>
+<li>国家：
+<ol>
+<li>国家的起源是阶级矛盾不可调和的产物；</li>
+<li>国家的本质是阶级统治的工具。</li>
+</ol>
+</li>
+<li>推动人类社会发展的根本动力只能是社会基本矛盾；</li>
+<li>划分阶级的标准是经济标准；</li>
+<li>人民群众的历史作用是社会物质财富的创造者、社会精神财富的创造者、社会变革的决定力量；</li>
+<li>哲学、美学、法学三种社会意识形式属于上层建筑，上层建筑由两部分组成：政治上层建筑和思想上层建筑；</li>
+<li>历史进步的必然性在于：</li>
+<li>生产力的发展永远不会停止；</li>
+<li>文明不断的进步和发展；</li>
+<li>社会发展是一个辩证否定的过程；</li>
+<li>它是人民群众根本利益的要求。</li>
+<li>上层建筑对经济基础的反作用表现在：</li>
+<li>帮助自己经济基础的形成；</li>
+<li>促进自己经济基础的巩固；</li>
+<li>影响社会经济的发展；</li>
+<li>排除自己经济基础的对立物。<br>
+上层建筑对社会发展的促进作用取决于：被服务的经济基础是否适应社会生产力发展的需要。</li>
+<li>生产方式是社会发展的决定力量，因为：</li>
+<li>它是人类社会赖以存在的物质基础；</li>
+<li>它制约着整个社会生活、政治生活和精神生活的过程；</li>
+<li>它的状况决定社会制度的性质；</li>
+<li>它的矛盾运动决定着社会形态的更替；</li>
+<li>它制约着地理环境对社会发展作用和影响的大小。</li>
+<li>社会意识的相对独立性表现为：</li>
+<li>它发展变化与社会存在的发展变化不完全同步；</li>
+<li>它和社会经济水平之间在发展上的不平衡性；</li>
+<li>它的发展往往具有历史继承性；</li>
+<li>各社会意识形式之间的相互作用和影响；</li>
+<li>它对社会存在具有能动的反作用。</li>
+</ol>
+<p>#第四章马克思主义学习（货币与市场经济）</p>
+<ol>
+<li>货币是社会劳动的产物，本身具有价值，能执行价值尺度的职能；</li>
+<li>价值规律是商品经济的基本规律，通过价格机制、供求机制和竟争机制实现作用；</li>
+<li>资本循环的三种职能形式是：固定资本、流动资本、生产资本；资本循环是从资本运动的形式和条件方面研究资本的运动；</li>
+<li>商品内在的使用价值与价值的矛盾，其完备的外在表现是商品与货币之间的对立；</li>
+<li>在商品经济中，形成价值的抽象劳动的支出必须借助于具体劳动；</li>
+<li>资产阶级意识形态的核心是政治思想和法律思想；</li>
+<li>社会必要劳动时间以简单劳动为尺度；</li>
+<li>具体劳动的作用是具体劳动的作用是；</li>
+<li>资本集中的方式是竞争和信用；</li>
+<li>价值规律的内容和要求是：</li>
+<li>商品的价值量由生产商品的社会必要劳动时间决定；</li>
+<li>商品交换以商品的价值量为基础；</li>
+<li>商品交换必须实行等价交换。</li>
+<li>货币的本质通过它的职能体现出来，货币有多种职能，其中最基本的职能是：</li>
+<li>价值尺度；</li>
+<li>流通手段。</li>
+<li>马克思关于资本有机构成学说论证了：</li>
+<li>相对过剩人口的形成；</li>
+<li>技术进步条件下生产资料生产的优先增长；</li>
+<li>利润率的下降趋势。</li>
+<li>使用价值、交换价值、价值三者之间的关系是：</li>
+<li>使用价值是交换价值和价值的物质承担者；</li>
+<li>交换价值和价值寓于使用价值之中；</li>
+<li>价值是交换价值的基础和内容；</li>
+<li>交换价值是价值的表现形式。</li>
+</ol>
 ]]></content>
     </entry>
 </feed>
